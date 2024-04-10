@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/week3/static/css/main.ab828226.css",
-    "main.js": "/week3/static/js/main.1534b019.js",
-    "static/js/453.0f8a3f1c.chunk.js": "/week3/static/js/453.0f8a3f1c.chunk.js",
-    "static/media/productinfo.jpg": "/week3/static/media/productinfo.89b485f58d4f92ed4140.jpg",
-    "static/media/charts.jpg": "/week3/static/media/charts.5956405a1f3c52feae5d.jpg",
-    "static/media/statistics.jpg": "/week3/static/media/statistics.a70cfc9118e214761eff.jpg",
-    "index.html": "/week3/index.html",
-    "main.ab828226.css.map": "/week3/static/css/main.ab828226.css.map",
-    "main.1534b019.js.map": "/week3/static/js/main.1534b019.js.map",
-    "453.0f8a3f1c.chunk.js.map": "/week3/static/js/453.0f8a3f1c.chunk.js.map"
+    "main.css": "/sneha/static/css/main.e5b5bc32.css",
+    "main.js": "/sneha/static/js/main.f4bd6b63.js",
+    "static/js/453.0f8a3f1c.chunk.js": "/sneha/static/js/453.0f8a3f1c.chunk.js",
+    "index.html": "/sneha/index.html",
+    "main.e5b5bc32.css.map": "/sneha/static/css/main.e5b5bc32.css.map",
+    "main.f4bd6b63.js.map": "/sneha/static/js/main.f4bd6b63.js.map",
+    "453.0f8a3f1c.chunk.js.map": "/sneha/static/js/453.0f8a3f1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab828226.css",
-    "static/js/main.1534b019.js"
+    "static/css/main.e5b5bc32.css",
+    "static/js/main.f4bd6b63.js"
   ]
 }
